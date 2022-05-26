@@ -59,6 +59,7 @@ justify-content:space-around;
 }
 
 .image-header{
+  filter: invert(16%) sepia(54%) saturate(3972%) hue-rotate(239deg) brightness(60%) contrast(86%);
   width: 430px;
   height: 320px;
   border-radius:0 10px 10px 0;
